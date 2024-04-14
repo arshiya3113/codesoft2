@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  .header {
+    background-image: url('header.png');
+  background-size: cover; 
+  background-position: center;
+
+    padding: 32px 0;
+    text-align: center;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 36px;
+    color: whitesmoke;
+    font-family: Georgia, serif;
+    -webkit-text-stroke: 1px black;
+         
+  }
+  
+  .header p {
+    margin-top: 5px;
+    font-size: 18px;
+    color: whitesmoke;
+    font-style: oblique;
+  }
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    
+  }
+  
+  .container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+  }
